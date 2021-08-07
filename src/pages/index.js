@@ -4,7 +4,7 @@ import Hero from "../components/Hero"
 import Work from "../components/ourWork"
 import About from "../components/AboutUs"
 import Client from "../components/Client"
-import Team from "../components/ourTeam"
+import Team from "../components/OurTeam"
 export default function Home() {
   return (
     <Layout>
