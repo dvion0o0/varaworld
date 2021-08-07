@@ -1,10 +1,10 @@
 import React from "react"
-import Layout from "../components/layout"
-import Hero from "../components/hero"
-import Work from "../components/ourwork"
-import About from "../components/aboutus"
-import Client from "../components/client"
-import Team from "../components/ourteam"
+import Layout from "../components/Layout"
+import Hero from "../components/Hero"
+import Work from "../components/ourWork"
+import About from "../components/AboutUs"
+import Client from "../components/Client"
+import Team from "../components/ourTeam"
 export default function Home() {
   return (
     <Layout>
